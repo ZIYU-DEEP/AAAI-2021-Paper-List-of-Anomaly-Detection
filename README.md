@@ -1,5 +1,5 @@
 # AAAI-2021-Paper-List-of-Anomaly-Detection
-A list of accepted papers in AAAI 2021 about anomaly detection. Relevant NeurIPS'20 papers are summarized at this [link](https://github.com/ZIYU-DEEP/Papers-on-Anomaly-Detection-in-NeurIPS-2020).
+A list of accepted papers in AAAI 2021 about anomaly detection. Relevant NeurIPS'20 papers are summarized at this repository: [NIPS 2020 Paper List of Anomaly Detection](https://github.com/ZIYU-DEEP/Papers-on-Anomaly-Detection-in-NeurIPS-2020).
 
 Unlike in [NeurIPS'20](https://github.com/ZIYU-DEEP/Papers-on-Anomaly-Detection-in-NeurIPS-2020) where most papers focus on solving an intrinsic bias problem of unsupervised anomaly detection, submissions in AAAI'21 are interested in (1) new learning models on general anomaly detection, or (2) application-specific improvement on real-world anomaly detection models , or (3) new functionality of existing anomaly detection frameworks.
 
