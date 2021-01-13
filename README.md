@@ -20,7 +20,7 @@ Unlike in [NeurIPS'20](https://github.com/ZIYU-DEEP/Papers-on-Anomaly-Detection-
 
 ### 2. Improvement on Real-World Anomaly Detection
 **Regularizing  Attention  Networks  for  Anomaly  Detection  in  Visual  Question  Answering** [[arxiv](https://arxiv.org/abs/2009.10054)]    
-*Doyup  Lee,  Yeongjae  Cheon,  Wook-­‐Shin  Han*  
+*Doyup  Lee,  Yeongjae  Cheon,  Wook-Shin  Han*  
 
 **Window  Loss  for  Abnormal  Finding  Classification  and  Localization  in  X‐Ray  Image  with  Point-­Base  Annotation**  
 *Xinyu  Zhang,  Yirui  Wang,  Chi  Tung  Cheng,  Le  Lu,  Adam  P  Harrison,  Jing  Xiao,  ChienHung  Liao,  Shun  Miao*  
@@ -60,7 +60,7 @@ Unlike in [NeurIPS'20](https://github.com/ZIYU-DEEP/Papers-on-Anomaly-Detection-
 *Vid Kocijan, Oana-Maria Camburu, Thomas Lukasiewicz*  
 
 **DecAug:  Out-­of-­Distribution  Generalization  via  Decomposed  Feature  Representation  and  Semantic  Augmentation** [[arxiv](https://arxiv.org/abs/2012.09382)]    
-*Haoyue  Bai,  Rui  Sun,  Lanqing  Hong,  Fengwei  Zhou,  Nanyang  Ye,  Han-­‐Jia  Ye,  Gary  Chan,  Zhenguo  Li*  
+*Haoyue  Bai,  Rui  Sun,  Lanqing  Hong,  Fengwei  Zhou,  Nanyang  Ye,  Han-Jia  Ye,  Gary  Chan,  Zhenguo  Li*  
 
 **Accelerated  Combinatorial  Search  for  Outlier  Detection  with  Provable  Bound  on  Sub-­Optimality**  
 *Guihong  Wan,  Haim  Schweitzer*  
